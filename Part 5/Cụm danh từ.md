@@ -34,7 +34,7 @@ man <- to admire ( To-infinitive )
 > Performance -> evaluation
 
 - Registration form
-> Registration -> form
+> Registration => form
 
 ---
 
